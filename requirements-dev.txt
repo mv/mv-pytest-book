@@ -1,0 +1,13 @@
+
+pytest>=4.0.2,<5.0.0
+flake8>=3.6.0
+black>=18.1
+
+# pylint
+# pytest-pylint
+
+# moto
+# placebo
+
+# mypy
+
